@@ -1,0 +1,4 @@
+"autenticaçao" simples onde é definido manualmente os emails permtidos e o conteúdo da página não poderá ser 
+visualizado por emails não registrados (cada página possui uma lista de emails permitidos).
+
+nivel de segurança: 1/10.
